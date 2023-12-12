@@ -6,31 +6,31 @@ _Machine Learning and Software Engineer_
 
 
 ## 💼 Work Experience
-_(Oct  2021 – Now)_: **PhD Student, University of Warsaw**<br>
+(Oct  2021 – Now): **PhD Student, University of Warsaw**<br>
 **Research Area:** Visual Reasoning in Deep Learning<br>
 My research focuses on the exploration of reasoning capabilities in Machine Learning.<br>
-<p>In project, Measuring CLEVRness: Black-box testing of visual reasoning models, we transform a 
+- In project, Measuring CLEVRness: Black-box testing of visual reasoning models, we transform a 
 typical visual question answering setting into a two-player adversary game of 2 reinforcement learning 
 agents. During this game, reasoning gaps of the visual models under test are exposed.
 It has been accepted in ICLR 2022 conference.<br>
-<p>In A Simple, Yet Effective Approach to Finding Biases in Code Generation, we 
+- In A Simple, Yet Effective Approach to Finding Biases in Code Generation, we 
 have shown that current code generation systems exhibit undesired biases inherited 
 from their large language model backbones, which can reduce the quality of the generated 
 code under specific circumstances. An automated intervention mechanism was introduced,
 that exposes undesired biases through the failure modes of the models under test.
 This work was accepted in ACL 2023.<br>
-<p>Currently I am focused on geometric reasoning of LLMs and VLMs and 
+- Currently, I am focused on geometric reasoning of LLMs and VLMs and 
 exploring ways to improve such models on this field, so fundamental to human reasoning.
 <br><br>
 
-_(Oct  2021 – Now)_:**Teaching Assistant, University of Warsaw**<br>
+(Oct  2021 – Now): **Teaching Assistant, University of Warsaw**<br>
 Responsible for conducting laboratories in the Natural Language Processing 
 Course and Visual Recognition Course of master’s degree study cycle in university of Warsaw,
 Department of Informatics (MIMUW).
 <br><br>
 
 
-_(March 2021 – Oct 2021)_:**Research Assistant, University of Warsaw**<br>
+(March 2021 – Oct 2021): **Research Assistant, University of Warsaw** <br>
 **Research Area:** Visual Reasoning and Neurosymbolic Approaches. <br>
 Under the supervision of Henryk Michalewski and Mateusz Malinowski,
 we investigate the effect of Neurosymbolic Neural Networks as well as 
@@ -40,7 +40,7 @@ network testbed has been created, enabling better understanding of
 pretrained visual reasoning architectures.
 <br><br>
 
-_(Nov 2018 – February 2021)_: **Lead Machine Learning Engineer** - Deepsea Technologies<br>
+(Nov 2018 – February 2021): **Lead Machine Learning Engineer** - Deepsea Technologies<br>
 As a Lead, I was responsible for the following projects:<br>
 -	Uncertainty Estimation/ Anomaly Detection.<br>
 Used Deep Quantile Networks to forecast and report anomalies on tankers and cargo ships of 5 major 
@@ -61,7 +61,7 @@ on sparse and corrupt AIS Data. Created a robust system that can classify perfor
 deterioration and assess the overall state of a ship.
 <br><br>
 
-_(Dec 2017 – Nov 2018)_: **Machine Learning Engineer** - Deepsea Technologies<br>
+(Dec 2017 – Nov 2018): **Machine Learning Engineer** - Deepsea Technologies<br>
 As an ML Engineer, I was responsible for the following projects:<br>
 -	Product Pipeline Design.<br>
 Successfully containerized and published all Deep Learning Projects with Docker and Flask. 
