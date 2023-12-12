@@ -1,5 +1,3 @@
-# Spyridon Mouselinos
-
 _Machine Learning and Software Engineer_
 
 [Email](mailto:mouselinos.spur.kw@gmail.com) / [LinkedIn](https://www.linkedin.com/in/spyridon-mouselinos/) / [GitHub](https://github.com/SpyrosMouselinos) / [Scholar](https://scholar.google.com/citations?user=D6TDBuUAAAAJ&hl=en)
