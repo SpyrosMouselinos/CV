@@ -21,13 +21,14 @@ that exposes undesired biases through the failure modes of the models under test
 This work was accepted in ACL 2023.<br>
 <p>Currently I am focused on geometric reasoning of LLMs and VLMs and 
 exploring ways to improve such models on this field, so fundamental to human reasoning.
-<br>
+<br><br>
 
 _(Oct  2021 – Now)_:**Teaching Assistant, University of Warsaw**<br>
 Responsible for conducting laboratories in the Natural Language Processing 
 Course and Visual Recognition Course of master’s degree study cycle in university of Warsaw,
 Department of Informatics (MIMUW).
-<br>
+<br><br>
+
 
 _(March 2021 – Oct 2021)_:**Research Assistant, University of Warsaw**<br>
 **Research Area:** Visual Reasoning and Neurosymbolic Approaches. <br>
@@ -37,7 +38,7 @@ Adversarial Agents towards testing the limits of VR/VQA tasks.
 During this work, an interactive application that acts as a neural 
 network testbed has been created, enabling better understanding of
 pretrained visual reasoning architectures.
-<br>
+<br><br>
 
 _(Nov 2018 – February 2021)_: **Lead Machine Learning Engineer** - Deepsea Technologies<br>
 As a Lead, I was responsible for the following projects:<br>
@@ -57,7 +58,8 @@ outperforming current solutions by 8-10%.<br>
 Used Time Series Deep Neural Networks and Feature Engineering based on Geolocation
 Trajectories in order to report fuel consumption and power consumption based solely 
 on sparse and corrupt AIS Data. Created a robust system that can classify performance 
-deterioration and assess the overall state of a ship.<br>
+deterioration and assess the overall state of a ship.
+<br><br>
 
 _(Dec 2017 – Nov 2018)_: **Machine Learning Engineer** - Deepsea Technologies<br>
 As an ML Engineer, I was responsible for the following projects:<br>
@@ -73,7 +75,8 @@ In this project we aimed to model the magnitude of  “aging” on different mec
 and automatically suggest their Remaining Useful Life (RUL).
 We used a combination of classical Machine Learning and Dilated Convolutional Neural Networks 
 and built a real-time monitor/tracker that was deployed on every ship. By suggesting maintenance 
-and repair we reduced costs of ship maintenance by 10%.<br>
+and repair we reduced costs of ship maintenance by 10%.
+<br><br>
 
 ## 📜 Publications
 **A Simple, Yet Effective Approach to Finding Biases in Code Generation** _(ACL 2023)_<br>
@@ -85,7 +88,8 @@ and repair we reduced costs of ship maintenance by 10%.<br>
 **Optimized Generation of Hardware CNN Inference Engines** _(MDPI Technologies 2020)_<br>
 [LINK](https://www.mdpi.com/2227-7080/8/1/6)<br>
 **TF2FPGA: A Framework for Projecting and Accelerating CNNs on FPGA Platforms** _(IEEE Mocast 2019)_<br>
-[LINK](https://ieeexplore.ieee.org/document/8741940)<br>
+[LINK](https://ieeexplore.ieee.org/document/8741940)
+<br><br>
 
 
 
