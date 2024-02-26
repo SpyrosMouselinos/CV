@@ -5,28 +5,20 @@ _Machine Learning and Software Engineer_
 [Email](mailto:mouselinos.spur.kw@gmail.com) / [LinkedIn](https://www.linkedin.com/in/spyridon-mouselinos/) / [GitHub](https://github.com/SpyrosMouselinos) / [Scholar](https://scholar.google.com/citations?user=D6TDBuUAAAAJ&hl=en)
 
 
-## 💼 Work Experience
+## 💼 Academic Experience
 (Oct  2021 – Now): **PhD Student, University of Warsaw**<br>
-**Research Area:** Visual Reasoning in Deep Learning<br>
-My research focuses on the exploration of reasoning capabilities in Machine Learning.<br>
-- In project, Measuring CLEVRness: Black-box testing of visual reasoning models, we transform a 
-typical visual question answering setting into a two-player adversary game of 2 reinforcement learning 
-agents. During this game, reasoning gaps of the visual models under test are exposed.
-It has been accepted in ICLR 2022 conference.<br>
-- In A Simple, Yet Effective Approach to Finding Biases in Code Generation, we 
-have shown that current code generation systems exhibit undesired biases inherited 
-from their large language model backbones, which can reduce the quality of the generated 
-code under specific circumstances. An automated intervention mechanism was introduced,
-that exposes undesired biases through the failure modes of the models under test.
-This work was accepted in ACL 2023.<br>
-- Currently, I am focused on geometric reasoning of LLMs and VLMs and 
-exploring ways to improve such models on this field, so fundamental to human reasoning.
+**Research Area:** Reasoning in Deep Learning<br>
+My research focuses on the exploration of reasoning capabilities of deep learning models in the challenging modalities of vision, language as well as their interplay.
+<br><br>
+- My initial project, **Measuring CLEVRness: Black-box Testing of Visual Reasoning Models**, showcased at **ICLR 2022**, aimed to advance our grasp of reasoning in visual-language scenarios through a novel dual-agent setup. This method, diverging from standard visual QA and adversarial tests, bypasses the need for direct model access like gradients or probabilities. Instead, inspired by zero-sum game theory, it transforms a visual question-answering scenario into a contest between a reasoning agent and a scene-manipulating agent, evaluating reasoning via significant, context-relevant scene changes.  Thus, we unveiled the shortcomings of prevalent data-driven approaches, challenging the accuracy of their claimed super-human visual QA performances. By analyzing agent interactions, we also uncovered model biases masquerading as logical reasoning. Ultimately by leveraging these results, we introduced fine-tuning strategies, leading to more robust multimodal reasoning akin to human processes.<br>
+- In the subsequent work,  **A Simple, Yet Effective Approach to Finding Biases in Code Generation** presented at **ACL 2023**, we explored the reasoning capabilities of various Large Language Models within the evolving and critical field of code generation. Our work breaks new ground by formalizing and evidencing three primary bias sources in coding challenges, termed *Blocks of Influence*: function names, problem specifications, and examples. A novel framework designed to automate the assessment of LLMs was introduced, revealing issues related to models' over-reliance on example demonstrations, biases in naming conventions, and difficulties in linking language descriptions to corresponding tasks. By investigating several open-source models, we validated our claims by managing to pinpoint the exact sources of memorized code and naming dependence in their datasets. Building on these insights, we utilized these identified biases as training augmentations against various open-source LLMs. We achieved significant robustness against such phenomena, reflected in improved coding abilities across all tested models.<br>
+- In my latest study, **Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**, we delved into the intricate world of constructive geometry with LLMs, introducing three key methodological innovations. Our first innovation is a dynamic prompting technique inspired by Retrieval Augmented Generation, significantly improving LLMs' adaptability and contextual awareness. Based on their relevance in solving progressively complex problems, this technique uses past interactions and reranks results. Secondly, we introduced a novel prompting technique that effectively tackles LLMs' need for 2D spatial awareness, facilitating precise problem extraction and applicability to models without inherent visual capabilities. Finally, the centerpiece of our research is the novel multi-domain and multi-role agent framework. Our approach demonstrates significant improvements in performance on mathematical and geometric QA tasks, outperforming vanilla multi-agent systems and setting new benchmarks for the complex problem-solving capabilities of LLMs. Crucially, our methodologies prove highly transferable to smaller LLMs, which greatly benefit from the enhanced reasoning and problem-solving capacities introduced by our innovations.
 <br><br>
 
 (Oct  2021 – Now): **Teaching Assistant, University of Warsaw**<br>
-Responsible for conducting laboratories in the Natural Language Processing 
-Course and Visual Recognition Course of master’s degree study cycle in university of Warsaw,
-Department of Informatics (MIMUW).
+Responsible for conducting laboratories in the *Natural Language Processing* 
+and *Visual Recognition* courses of master’s degree study cycle in University of Warsaw.
+Proud to have supervised the creation of the student project: Distilled HerBert (https://huggingface.co/BartekK/distilHerBERT-base-cased) a BERT-based Language Model trained on Polish Language.
 <br><br>
 
 
@@ -52,7 +44,7 @@ Used Generative Adversarial Networks to Simulate Ship Performance
 under different weather conditions and created a better Deep Learning
 boosted variant of the Graph Based A*(A star) algorithm. Managed to 
 automatically create routes for over 100 ships at real-time, with the algorithm 
-outperforming current solutions by 8-10%.<br>
+outperforming current competitor solutions by 8-10%.<br>
 
 -	AIS System Based - Fuel and Hull Fouling Estimation over Sparse Data.
 Used Time Series Deep Neural Networks and Feature Engineering based on Geolocation
@@ -100,7 +92,7 @@ and repair we reduced costs of ship maintenance by 10%.
 <br><br>
 
 ## 🏫 Education
-**PhD Studies** Topic: Visual Reasoning<br>
+**PhD Studies** Topic: Visual (and not only) Reasoning<br>
 [University of Warsaw](https://www.mimuw.edu.pl/) _(Apr 2021 - Now)_<br>
 Supervisors: Henryk Michalewski and Mateusz Malinowski<br>
 
