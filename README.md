@@ -72,6 +72,8 @@ and repair we reduced costs of ship maintenance by 10%.
 <br><br>
 
 ## 📜 Publications
+**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models** <br>
+[LINK](https://arxiv.org/abs/2402.03877)<br>
 **A Simple, Yet Effective Approach to Finding Biases in Code Generation** _(ACL 2023)_<br>
 [LINK](https://arxiv.org/abs/2211.00609)<br>
 **Measuring CLEVRness: Blackbox testing of Visual Reasoning Models** _(ICLR 2022)_<br>
