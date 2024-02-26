@@ -32,6 +32,7 @@ network testbed has been created, enabling better understanding of
 pretrained visual reasoning architectures.
 <br><br>
 
+## 🔧 Work Experience
 (Nov 2018 – February 2021): **Lead Machine Learning Engineer** - Deepsea Technologies<br>
 As a Lead, I was responsible for the following projects:<br>
 -	Uncertainty Estimation/ Anomaly Detection.<br>
