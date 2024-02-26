@@ -7,7 +7,7 @@ _Machine Learning and Software Engineer_
 
 ## 💼 Academic Experience
 (Oct  2021 – Now): **PhD Student, University of Warsaw**<br>
-**Research Area:** Reasoning in Deep Learning<br>
+**Research Area:** Reasoning in Deep Learning Models<br>
 My research focuses on the exploration of reasoning capabilities of deep learning models in the challenging modalities of vision, language as well as their interplay.
 <br><br>
 - My initial project, **Measuring CLEVRness: Black-box Testing of Visual Reasoning Models**, showcased at **ICLR 2022**, aimed to advance our grasp of reasoning in visual-language scenarios through a novel dual-agent setup. This method, diverging from standard visual QA and adversarial tests, bypasses the need for direct model access like gradients or probabilities. Instead, inspired by zero-sum game theory, it transforms a visual question-answering scenario into a contest between a reasoning agent and a scene-manipulating agent, evaluating reasoning via significant, context-relevant scene changes.  Thus, we unveiled the shortcomings of prevalent data-driven approaches, challenging the accuracy of their claimed super-human visual QA performances. By analyzing agent interactions, we also uncovered model biases masquerading as logical reasoning. Ultimately by leveraging these results, we introduced fine-tuning strategies, leading to more robust multimodal reasoning akin to human processes.<br>
@@ -33,7 +33,7 @@ pretrained visual reasoning architectures.
 <br><br>
 
 ## 🔧 Work Experience
-(Nov 2018 – February 2021): **Lead Machine Learning Engineer** - Deepsea Technologies<br>
+(Nov 2018 – February 2021): **Lead Machine Learning Engineer** - Deepsea Technologies (https://deepsea.ai/) <br>
 As a Lead, I was responsible for the following projects:<br>
 -	Uncertainty Estimation/ Anomaly Detection.<br>
 Used Deep Quantile Networks to forecast and report anomalies on tankers and cargo ships of 5 major 
@@ -54,7 +54,7 @@ on sparse and corrupt AIS Data. Created a robust system that can classify perfor
 deterioration and assess the overall state of a ship.
 <br><br>
 
-(Dec 2017 – Nov 2018): **Machine Learning Engineer** - Deepsea Technologies<br>
+(Dec 2017 – Nov 2018): **Machine Learning Engineer** - Deepsea Technologies (https://deepsea.ai/)<br>
 As an ML Engineer, I was responsible for the following projects:<br>
 -	Product Pipeline Design.<br>
 Successfully containerized and published all Deep Learning Projects with Docker and Flask. 
@@ -95,7 +95,7 @@ and repair we reduced costs of ship maintenance by 10%.
 <br><br>
 
 ## 🏫 Education
-**PhD Studies** Topic: Visual (and not only) Reasoning<br>
+**PhD Studies** Topic: Reasoning in Deep Learning Models<br>
 [University of Warsaw](https://www.mimuw.edu.pl/) _(Apr 2021 - Now)_<br>
 Supervisors: Henryk Michalewski and Mateusz Malinowski<br>
 
