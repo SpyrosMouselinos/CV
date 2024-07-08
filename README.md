@@ -86,35 +86,48 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 <br><br>
 
 ## 🏫 Education, Awards, and Languages
+
 <table style="width:100%">
 <tr>
-<td style="width:60%">
+<td style="width:60%; vertical-align: top;">
 
-**PhD Studies** Topic: Reasoning in Deep Learning Models<br>
-[University of Warsaw](https://www.mimuw.edu.pl/) _(Apr 2021 - Now)_<br>
+<p>
+<strong>PhD Studies</strong> Topic: Reasoning in Deep Learning Models<br>
+<a href="https://www.mimuw.edu.pl/">University of Warsaw</a> (Apr 2021 - Now)<br>
 Supervisors: Henryk Michalewski and Mateusz Malinowski<br>
+</p>
 
-**Master of Science** in Data Science and Machine Learning<br>
-[Athens University of Economics and Business](https://datascience.aueb.gr/) _(2019 - 2021)_<br>
+<p>
+<strong>Master of Science</strong> in Data Science and Machine Learning<br>
+<a href="https://datascience.aueb.gr/">Athens University of Economics and Business</a> (2019 - 2021)<br>
+</p>
 
-**Summer School** - Graph Theory and Randomized Computing <br>
-[Gdańsk Technical University](https://pg.edu.pl/en) _(2019)_<br>
+<p>
+<strong>Summer School</strong> - Graph Theory and Randomized Computing <br>
+<a href="https://pg.edu.pl/en">Gdańsk Technical University</a> (2019)<br>
+</p>
 
-**Bachelor and Master of Engineering** in Electrical and Computer Engineering<br>
-[National Technical University of Athens](https://www.ece.ntua.gr/en) _(2013-2018)_<br>
+<p>
+<strong>Bachelor and Master of Engineering</strong> in Electrical and Computer Engineering<br>
+<a href="https://www.ece.ntua.gr/en">National Technical University of Athens</a> (2013-2018)<br>
+</p>
 
 </td>
-<td style="width:40%">
+<td style="width:40%; vertical-align: top;">
 
-Worked and published under the **OPUS-15 Grant** with Prof.Henryk Michalewski<br>
-Hellenic Mathematical Society: **Euclid Award 2012**<br>
-Hellenic Mathematical Society: **Thales Award 2011**<br>
-<br>
+<p>
+Worked and published under the <strong>OPUS-15 Grant</strong> with Prof.Henryk Michalewski<br>
+Hellenic Mathematical Society: <strong>Euclid Award 2012</strong><br>
+Hellenic Mathematical Society: <strong>Thales Award 2011</strong><br>
+</p>
 
 ---
-**Greek**: Native <br>
-**English**: C2 <br>
-**German**: B1 <br>
+
+<p>
+<strong>Greek</strong>: Native <br>
+<strong>English</strong>: C2 <br>
+<strong>German</strong>: B1 <br>
+</p>
 
 </td>
 </tr>
