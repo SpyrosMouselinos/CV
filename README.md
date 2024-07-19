@@ -55,29 +55,30 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 <td style="width:60%; vertical-align: top;">
 
 <p>
+<strong> Programming Languages </strong> <br>
+Development: Python / C <br>
+Scripting: Bash / Slurm <br>
+</p>
 
-### Programming Languages
-- Development: Python / C
--  Scripting: Bash / Slurm
-
-### CI / CD
-- Docker, Flask, RabbitMQ
-- Airflow, MLflow, WANDB
+<p>
+<strong> CI / CD </strong> <br>
+Docker, Flask, RabbitMQ <br>
+Airflow, MLflow, WANDB <br>
 </p>
 
 </td>
 <td style="width:40%; vertical-align: top;">
 
 <p>
+<strong> Machine Learning </strong> <br>
+TensorFlow / PyTorch / Pytorch Lightning <br>
+NLTK / Weka / Gensim / NetworkX <br>
+</p>
 
-### Machine Learning
-- TensorFlow / PyTorch / Pytorch Lightning
-- NLTK / Weka / Gensim / NetworkX
-
-
-### Data Storage and Analytics 
-- Graphana, InfluxDB, PostgreSQL, MongoDB
-- Apache PySpark
+<p>
+<strong> Data Storage and Analytics </strong> <br>
+Graphana, InfluxDB, PostgreSQL, MongoDB <br>
+Apache PySpark <br>
 
 </p>
 
