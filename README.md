@@ -48,11 +48,13 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 <br><br>
 
 
+
 ## Tech Stack
+<table style="width:100%">
+<tr>
+<td style="width:60%; vertical-align: top;">
 
-<div style="display: flex; justify-content: space-between;">
-
-<div style="flex: 1; padding-right: 10px;">
+<p>
 
 ### Programming Languages
 - Development: Python / C
@@ -61,10 +63,12 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 ### CI / CD
 - Docker, Flask, RabbitMQ
 - Airflow, MLflow, WANDB
+</p>
 
-</div>
+</td>
+<td style="width:40%; vertical-align: top;">
 
-<div style="flex: 1; padding-left: 10px;">
+<p>
 
 ### Machine Learning
 - TensorFlow / PyTorch / Pytorch Lightning
@@ -75,10 +79,12 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 - Graphana, InfluxDB, PostgreSQL, MongoDB
 - Apache PySpark
 
+</p>
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 
 
 ##  Academic Experience
