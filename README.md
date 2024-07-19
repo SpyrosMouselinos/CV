@@ -49,8 +49,6 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 
 
 ## Tech Stack
-## Skills
-
 <div style="display: flex;">
 <div style="flex: 1; padding-right: 10px;">
 
@@ -63,7 +61,6 @@ and built a real-time monitor/tracker deployed on every ship. We reduced ship ma
 - Airflow, MLflow, WANDB
 
 </div>
-
 <div style="flex: 1; padding-left: 10px;">
 
 ### Deep Learning / Machine Learning
