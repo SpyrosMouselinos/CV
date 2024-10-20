@@ -5,12 +5,16 @@ _Machine Learning and Software Engineer_
 [Email](mailto:mouselinos.spur.kw@gmail.com) / [LinkedIn](https://www.linkedin.com/in/spyridon-mouselinos/) / [GitHub](https://github.com/SpyrosMouselinos) / [Scholar](https://scholar.google.com/citations?user=D6TDBuUAAAAJ&hl=en)
 
 ## Work Experience
-(March 2024 – Now): **Machine Learning Consultant** - Equinox AI (https://equinoxai.com/) <br>
-- Responsible for optimizing pipelines for high-volume real time algorithmic trading systems, using a mixture of big-data timeseries techniques
-and reinforcment learning trading agents.<br>
+(September 2024 - Now): **Machine Learning Engineer** - Moonvalley (https://www.moonvalley.com/) <br>
+- Responsible for curating text-to-video and text-to-image models.<be>
 
 
-(Nov 2018 – February 2021): **Lead Machine Learning Engineer** - Deepsea Technologies (https://deepsea.ai/) <br>
+(March 2024 – September 2024): **Machine Learning Consultant** - Equinox AI (https://equinoxai.com/) <br>
+- Responsible for optimizing pipelines for high-volume real-time algorithmic trading systems, using a mixture of big-data time-series techniques
+and reinforcement learning trading agents.<br>
+
+
+(November 2018 – February 2021): **Lead Machine Learning Engineer** - Deepsea Technologies (https://deepsea.ai/) <br>
 As a Lead, I was responsible for the following projects:<br>
 -	Uncertainty Estimation/ Anomaly Detection.<br>
 Used Deep Quantile Networks to forecast and report anomalies on tankers and cargo ships of 5 major 
@@ -116,7 +120,7 @@ pretrained visual reasoning architectures.
 <br><br>
 
 ## Publications
-**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models** _(TBA)_<br>
+**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models** _(EMNLP 2024)_<br>
 [LINK](https://arxiv.org/abs/2402.03877)<br>
 **A Simple, Yet Effective Approach to Finding Biases in Code Generation** _(ACL 2023)_<br>
 [LINK](https://arxiv.org/abs/2211.00609)<br>
