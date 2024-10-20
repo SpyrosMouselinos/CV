@@ -6,7 +6,7 @@ _Machine Learning and Software Engineer_
 
 ## Work Experience
 (September 2024 - Now): **Machine Learning Engineer** - Moonvalley (https://www.moonvalley.com/) <br>
-- Responsible for curating text-to-video and text-to-image models.<be>
+- Responsible for preparing the next big thing in text-to-video and text-to-image models.<be>
 
 
 (March 2024 – September 2024): **Machine Learning Consultant** - Equinox AI (https://equinoxai.com/) <br>
