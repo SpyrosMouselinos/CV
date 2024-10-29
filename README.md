@@ -120,18 +120,47 @@ pretrained visual reasoning architectures.
 <br><br>
 
 ## Publications
-**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models** _(EMNLP 2024)_<br>
-[LINK](https://arxiv.org/abs/2402.03877)<br>
-**A Simple, Yet Effective Approach to Finding Biases in Code Generation** _(ACL 2023)_<br>
-[LINK](https://arxiv.org/abs/2211.00609)<br>
-**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models** _(ICLR 2022)_<br>
-[LINK](https://arxiv.org/abs/2202.12162)<br>
-**MAIN: Multi-Head Attention Imputation Networks** _(IJCNN 2021)_<br>
-[LINK](https://arxiv.org/pdf/2102.05428.pdf)<br>
-**Optimized Generation of Hardware CNN Inference Engines** _(MDPI Technologies 2020)_<br>
-[LINK](https://www.mdpi.com/2227-7080/8/1/6)<br>
-**TF2FPGA: A Framework for Projecting and Accelerating CNNs on FPGA Platforms** _(IEEE Mocast 2019)_<br>
-[LINK](https://ieeexplore.ieee.org/document/8741940)
+**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models** _(EMNLP 2024)_
+<span class="paper-links">
+  [PDF](https://arxiv.org/abs/2402.03877)
+  <button onclick="playAudio('beyond-lines')" class="play-button">▶ Play</button>
+  <audio id="beyond-lines" src="assets/beyond-lines.mp3"></audio>
+</span>
+
+**A Simple, Yet Effective Approach to Finding Biases in Code Generation** _(ACL 2023)_
+<span class="paper-links">
+  [PDF](https://arxiv.org/abs/2211.00609)
+  <button onclick="playAudio('code-gen-biases')" class="play-button">▶ Play</button>
+  <audio id="code-gen-biases" src="assets/code-gen-biases.mp3"></audio>
+</span>
+
+**Measuring CLEVRness: Blackbox testing of Visual Reasoning Models** _(ICLR 2022)_
+<span class="paper-links">
+  [PDF](https://arxiv.org/abs/2202.12162)
+  <button onclick="playAudio('clevrness')" class="play-button">▶ Play</button>
+  <audio id="clevrness" src="assets/clevrness.mp3"></audio>
+</span>
+
+**MAIN: Multi-Head Attention Imputation Networks** _(IJCNN 2021)_
+<span class="paper-links">
+  [PDF](https://arxiv.org/pdf/2102.05428.pdf)
+  <button onclick="playAudio('main')" class="play-button">▶ Play</button>
+  <audio id="main" src="assets/main.mp3"></audio>
+</span>
+
+**Optimized Generation of Hardware CNN Inference Engines** _(MDPI Technologies 2020)_
+<span class="paper-links">
+  [PDF](https://www.mdpi.com/2227-7080/8/1/6)
+  <button onclick="playAudio('cnn-engines')" class="play-button">▶ Play</button>
+  <audio id="cnn-engines" src="assets/cnn-engines.mp3"></audio>
+</span>
+
+**TF2FPGA: A Framework for Projecting and Accelerating CNNs on FPGA Platforms** _(IEEE Mocast 2019)_
+<span class="paper-links">
+  [PDF](https://ieeexplore.ieee.org/document/8741940)
+  <button onclick="playAudio('tf2fpga')" class="play-button">▶ Play</button>
+  <audio id="tf2fpga" src="assets/tf2fpga.mp3"></audio>
+</span>
 <br><br>
 
 ## Education, Awards, and Languages
@@ -181,3 +210,48 @@ Hellenic Mathematical Society: <strong>Thales Award 2011</strong><br>
 </td>
 </tr>
 </table>
+
+<style>
+.play-button {
+  display: inline-block;
+  padding: 4px 8px;
+  margin-left: 8px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.play-button:hover {
+  background-color: #45a049;
+}
+
+.paper-links {
+  display: inline-flex;
+  align-items: center;
+}
+</style>
+
+<script>
+let currentlyPlaying = null;
+
+function playAudio(audioId) {
+    const audio = document.getElementById(audioId);
+    
+    if (currentlyPlaying && currentlyPlaying !== audio) {
+        currentlyPlaying.pause();
+        currentlyPlaying.currentTime = 0;
+    }
+    
+    if (audio.paused) {
+        audio.play();
+        currentlyPlaying = audio;
+    } else {
+        audio.pause();
+        audio.currentTime = 0;
+        currentlyPlaying = null;
+    }
+}
+</script>
